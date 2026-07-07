@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [1672-richest-customer-wealth](https://github.com/Chandankumarar/dsa-probllems/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chandankumarar/dsa-probllems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandankumarar/dsa-probllems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
