@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/Chandankumarar/dsa-probllems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/Chandankumarar/dsa-probllems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Chandankumarar/dsa-probllems/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Chandankumarar/dsa-probllems/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
