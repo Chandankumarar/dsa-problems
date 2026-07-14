@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandankumarar/dsa-probllems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandankumarar/dsa-probllems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Chandankumarar/dsa-probllems/tree/master/2685-count-the-number-of-complete-components) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
