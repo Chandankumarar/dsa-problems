@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandankumarar/dsa-probllems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandankumarar/dsa-probllems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
