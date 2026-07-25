@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandankumarar/dsa-probllems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Chandankumarar/dsa-probllems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0152-maximum-product-subarray) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
