@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Chandankumarar/dsa-probllems/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chandankumarar/dsa-probllems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
