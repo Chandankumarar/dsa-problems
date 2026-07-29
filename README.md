@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Chandankumarar/dsa-probllems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Union-Find
