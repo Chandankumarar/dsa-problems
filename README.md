@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chandankumarar/dsa-probllems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Chandankumarar/dsa-probllems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0206-reverse-linked-list) |
