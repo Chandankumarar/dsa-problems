@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chandankumarar/dsa-probllems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chandankumarar/dsa-probllems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandankumarar/dsa-probllems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chandankumarar/dsa-probllems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
