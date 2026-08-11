@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chandankumarar/dsa-probllems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3708-longest-fibonacci-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandankumarar/dsa-probllems/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
