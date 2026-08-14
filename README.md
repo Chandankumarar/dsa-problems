@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Chandankumarar/dsa-probllems/tree/master/3174-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandankumarar/dsa-probllems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Chandankumarar/dsa-probllems/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
+| [3174-clear-digits](https://github.com/Chandankumarar/dsa-probllems/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandankumarar/dsa-probllems/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
