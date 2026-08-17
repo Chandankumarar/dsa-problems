@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chandankumarar/dsa-probllems/tree/master/0877-stone-game) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Chandankumarar/dsa-probllems/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
