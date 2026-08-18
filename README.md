@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Chandankumarar/dsa-probllems/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
