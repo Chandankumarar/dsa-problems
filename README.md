@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chandankumarar/dsa-probllems/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/Chandankumarar/dsa-probllems/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandankumarar/dsa-probllems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
