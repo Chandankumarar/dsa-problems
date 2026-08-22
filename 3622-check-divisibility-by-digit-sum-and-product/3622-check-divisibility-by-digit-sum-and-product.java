@@ -8,7 +8,7 @@ class Solution {
             pro*=digit;
             num=num/10;
         }  
-        System.out.println(sum+" "+pro); 
+        // System.out.println(sum+" "+pro); 
         return n%(sum+pro)==0;
     }
 }
