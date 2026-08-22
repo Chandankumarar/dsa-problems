@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandankumarar/dsa-probllems/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chandankumarar/dsa-probllems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Chandankumarar/dsa-probllems/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Chandankumarar/dsa-probllems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Chandankumarar/dsa-probllems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
