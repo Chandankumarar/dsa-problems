@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Chandankumarar/dsa-probllems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Chandankumarar/dsa-probllems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
