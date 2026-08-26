@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Chandankumarar/dsa-probllems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chandankumarar/dsa-probllems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Chandankumarar/dsa-probllems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandankumarar/dsa-probllems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chandankumarar/dsa-probllems/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chandankumarar/dsa-probllems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chandankumarar/dsa-probllems/tree/master/0877-stone-game) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandankumarar/dsa-probllems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chandankumarar/dsa-probllems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandankumarar/dsa-probllems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/2000-reverse-prefix-of-word) |
