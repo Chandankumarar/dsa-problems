@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Chandankumarar/dsa-probllems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Chandankumarar/dsa-probllems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Chandankumarar/dsa-probllems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chandankumarar/dsa-probllems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Chandankumarar/dsa-probllems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Chandankumarar/dsa-probllems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandankumarar/dsa-probllems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Chandankumarar/dsa-probllems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Chandankumarar/dsa-probllems/tree/master/3174-clear-digits) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandankumarar/dsa-probllems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Chandankumarar/dsa-probllems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
