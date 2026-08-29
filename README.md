@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chandankumarar/dsa-probllems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3708-longest-fibonacci-subarray](https://github.com/Chandankumarar/dsa-probllems/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Chandankumarar/dsa-probllems/tree/master/1672-richest-customer-wealth) |
+| [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 | [3731-find-missing-elements](https://github.com/Chandankumarar/dsa-probllems/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandankumarar/dsa-probllems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chandankumarar/dsa-probllems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/2460-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 | [3174-clear-digits](https://github.com/Chandankumarar/dsa-probllems/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chandankumarar/dsa-probllems/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
