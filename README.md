@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Chandankumarar/dsa-probllems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandankumarar/dsa-probllems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Chandankumarar/dsa-probllems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chandankumarar/dsa-probllems/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Chandankumarar/dsa-probllems/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Chandankumarar/dsa-probllems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
