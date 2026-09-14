@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chandankumarar/dsa-probllems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Chandankumarar/dsa-probllems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Chandankumarar/dsa-probllems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Chandankumarar/dsa-probllems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Chandankumarar/dsa-probllems/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandankumarar/dsa-probllems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Chandankumarar/dsa-probllems/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Chandankumarar/dsa-probllems/tree/master/0680-valid-palindrome-ii) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandankumarar/dsa-probllems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chandankumarar/dsa-probllems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandankumarar/dsa-probllems/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chandankumarar/dsa-probllems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chandankumarar/dsa-probllems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandankumarar/dsa-probllems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Chandankumarar/dsa-probllems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1331-rank-transform-of-an-array) |
@@ -301,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chandankumarar/dsa-probllems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandankumarar/dsa-probllems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Chandankumarar/dsa-probllems/tree/master/2679-sum-in-a-matrix) |
 ## Monotonic Queue
@@ -331,4 +337,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Chandankumarar/dsa-probllems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Chandankumarar/dsa-probllems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
