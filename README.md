@@ -1,7 +1,30 @@
-# dsa-probllems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LeetCode Topics Start-->
+# Data Structures and Algorithms
+
+A collection of my coding practice and algorithm solutions, maintained as part of my preparation for software engineering internships and technical interviews.
+
+## Topics
+
+- Arrays and Strings
+- Two Pointers
+- Binary Search
+- Linked Lists
+- Stacks and Queues
+- Hashing
+- Mathematics
+- Other algorithmic problems
+
+## Practice Platforms
+
+[My LeetCode Profile](https://leetcode.com/u/nuser7584kC/)
+
+## About
+
+I'm Chandan Kumar A R, a Computer Science and Engineering undergraduate graduating in 2027.
+
+This repository documents my problem-solving practice. Solutions are organized by problem and topic.
+
+The topic tables below are maintained using LeetHub.
 # LeetCode Topics
 ## Array
 |  |
